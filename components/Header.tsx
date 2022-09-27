@@ -29,17 +29,18 @@ function Header({ }: Props) {
 
       >
         <div className='flex flex-row items-center'>
-          <SocialIcon url='https://facebook/jaketrent'
+          
+          <SocialIcon url='https://facebook.com/jaketrent'
             fgColor='grey'
             bgColor='transparent'
           />
 
-          <SocialIcon url='https://instagram/jaketrent'
+          <SocialIcon url='https://instagram.com/jaketrent'
             fgColor='grey'
             bgColor='transparent'
           />
 
-          <SocialIcon url='https://youtube.com/jaketrent'
+          <SocialIcon url='https://linkedin.com/jaketrent'
             fgColor='grey'
             bgColor='transparent'
           />
