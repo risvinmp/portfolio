@@ -28,6 +28,11 @@ const Home: NextPage = () => {
         <About />
       </section>
 
+      {/*experience*/}
+      <section id="experience">
+        <WorkExperience />
+      </section>
+
 
 
 

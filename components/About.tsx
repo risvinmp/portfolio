@@ -25,6 +25,14 @@ export default function About({}: Props) {
        className='-mb-20 md:mb-0 flex-shrink-0 w-56 h-56 rounded-full object-cover 
        md:rounded-lg md:w-64 md:h-95 xl:w-[400px] xl:h-[300px]'
        />
+
+       <div className='space-y-10 px-0 mt-20 md:px-10'>
+        <h4 className='text-4xl font-semibold'>Here is a <span className='underline decoration-[#F7AB07]/50'> little </span> background</h4>
+        <p className='text-base'>I'm risvin.Passsionate About The Development Goals Is To Achieve A Good Position By Doing Satisfying Work In The IT Field,Strongly Focused
+          To Complete The Task Fast-Faced Envoirnment. Who Seeking A Great Opertunity In The Designing And Development Industry, I Wish To Be Part
+          Of An Organization To Achieve A Challenging And Respactable Position In Your Organization Wher I Will Be Able To Contribute According To My Skill.
+        </p>
+       </div>
         </div>
   )
 }
